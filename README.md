@@ -12,9 +12,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Nugrohocn&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🏆 Contributions
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nugrohocn&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nugrohocn&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nugrohocn&theme=github_dark)
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=yourusername&icon=0&color=0" alt="Visitor Count"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
